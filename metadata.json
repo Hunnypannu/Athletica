@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Apex - Sports Science System & VS Code Studio",
+  "description": "High-performance sports science terminal, biometric telemetry workout log, nutrition store, squad leaderboard, and integrated VS Code developer workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
